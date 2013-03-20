@@ -11,6 +11,8 @@
 		<script type="text/javascript" src="js/fb-init.js"></script>
 		<a href="#" id="login" style="display: none;">Login to Facebook</a>
 		<div id="info-pane"></div>
+		<div id="footer">Copyright (c) Lucas Azzola, 2013</div>
+
 	</body>
 </html>
 
